@@ -20,10 +20,10 @@ if (signNumber > 0) {
     alert(0);
 }
 
-// 2 decision
+// 3 decision
 let result = (a + b < 4) ? 'Мало' : 'Много';
 
-// 2 decision
+// 4 decision
 let message = (login == 'Сотрудник') ? 'Привет' :
     (login == 'Директор') ? 'Здравствуйте' :
     (login == '') ? 'Нет логина' : '';
